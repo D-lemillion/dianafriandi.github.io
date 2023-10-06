@@ -1,0 +1,36 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #2e4374;
+}
+.jumbotron h1 {
+  color: #ffffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 3rem;
+  margin-top: 2rem;
+}
+.jumbotron p {
+  color: #ffffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1rem;
+}
+#galery {
+  background-color: #2e4374;
+}
+#galery h2 {
+  color: #ffffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 3rem;
+}
+#about h2 {
+  color: #2e4374;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 3rem;
+}
+#contact h2 {
+  color: #2e4374;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 3rem;
+}
+section {
+  padding-top: 5rem;
+}
